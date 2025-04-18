@@ -1,4 +1,4 @@
-[![MasterHead](https://www.commercient.com/wp-content/uploads/2019/12/deepLearning.gif)]
+![MasterHead](https://www.commercient.com/wp-content/uploads/2019/12/deepLearning.gif)
 <h1 align="center">Hi 👋, I'm Rakesh Kushwaha</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
