@@ -66,7 +66,7 @@
 
 - 🎯 Portfolio website: [Portfolio](https://varadbhogayata.github.io/)
 
-- 🔭 I’m currently working on **Stellar Cabs and LMS**
+- 🔭 I’m currently working on **Full stack projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">**
 
 - 🌱 I’m currently learning **Full Stack development**
 
@@ -80,7 +80,7 @@
 
 - 📫 How to reach me **rakeshkk589@gmail.com**
 
-- ⚡ Fun fact **I love participating in hackathons and coding challenges!**
+- ⚡ Fun fact **The first computer bug was a real moth. 🪲💻**
 
 <br>
 
