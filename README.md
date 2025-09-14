@@ -3,9 +3,25 @@
 <!--- header image --->
 
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+<div align="center">
+<h1 align="center">
+  नमस्ते (Namaste) 🙏  
+  <br>
+  I'm Rakesh Kushwaha 👋
+</h1>
 
-<h1 align="center">Hello there 👋, I'm Rakesh Kushwaha</h1>
-<h3 align="center">A passionate Software engineer from India</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/er-rakesh-kushwaha/">
+    <img src="https://img.shields.io/badge/-rakesh%20kushwaha-blue?style=flat-square&logo=Linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:rakeshkk589@gmail.com">
+    <img src="https://img.shields.io/badge/-rakesh@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" />
+  </a>
+</p>
+</div>
+
+
+<h3 align="center">A passionate Developer from India</h3>
 
 
 
@@ -47,6 +63,8 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
+
+- 🎯 Portfolio website: [Portfolio](https://varadbhogayata.github.io/)
 
 - 🔭 I’m currently working on **Stellar Cabs and LMS**
 
