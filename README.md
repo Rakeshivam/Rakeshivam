@@ -115,7 +115,7 @@
 </h1>
 
 <div align="center">
-<img width="200" height="300" src="https://private-user-images.githubusercontent.com/112877228/489258232-12e0d365-9625-4f41-95e0-5cfeabed4daf.jpeg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTc4NDQyODMsIm5iZiI6MTc1Nzg0Mzk4MywicGF0aCI6Ii8xMTI4NzcyMjgvNDg5MjU4MjMyLTEyZTBkMzY1LTk2MjUtNGY0MS05NWUwLTVjZmVhYmVkNGRhZi5qcGVnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MDkxNCUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTA5MTRUMDk1OTQzWiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9MzJiZDMxOTg0NTVhMmNkNDE4ZTYxNTg3ODg2ZWU0MDViNDE4MGJlYjgwMjE0NGJmYTM1ZTlhOWFkYTU3OWVmMiZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.1MeQ89XyHjTFVfnBGAbGiTv1DkL-X0nUjIeeRxhxkK4" />
+<img src="https://raw.githubusercontent.com/Rakeshivam/Assets/main/Me.jpg" width="220" height="320" />
 
 I am a Information Technology graduate from Dr. Ram Manohar Lohia Avadh University.
 
