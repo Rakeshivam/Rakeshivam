@@ -164,6 +164,13 @@ I am a Information Technology graduate from Dr. Ram Manohar Lohia Avadh Universi
   </a>
 </p>
 
+- ### Frontend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,react,redux,tailwind,materialui" />
+  </a>
+</p>
+
 - ### Backend
 <p align="left">
   <a href="https://skillicons.dev">
@@ -171,12 +178,7 @@ I am a Information Technology graduate from Dr. Ram Manohar Lohia Avadh Universi
   </a>
 </p>
 
-- ### Frontend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,react,redux,tailwind,materialui" />
-  </a>
-</p>
+
 
 - ### Databases
 <p align="left">
