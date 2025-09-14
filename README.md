@@ -18,7 +18,6 @@
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon"width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="50" height="50">
   
@@ -33,7 +32,7 @@
   <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="50" height="50" />
+  
   
 
 
@@ -140,45 +139,45 @@ I am a Information Technology graduate from Dr. Ram Manohar Lohia Avadh Universi
 
 <h3 align="left">Languages and Tools:</h3>
 
-- ### Programming Language
+- ### Programming Languages
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,swift,py,js,ts" />
+    <img src="https://skillicons.dev/icons?i=js,py,java" />
   </a>
 </p>
 
 - ### Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,django,express,nextjs" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express" />
   </a>
 </p>
 
 - ### Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,materialui" />
+    <img src="https://skillicons.dev/icons?i=html,css,react,redux,tailwind,materialui" />
   </a>
 </p>
 
-- ### Database
+- ### Databases
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
   </a>
 </p>
 
 - ### Cloud Servers
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,aws,gcp,firebase,cloudfare" />
+    <img src="https://skillicons.dev/icons?i=azure,aws,gcp" />
   </a>
 </p>
 
 - ### Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,sublime,idea,vscode,postman,linux" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
   </a>
 </p>
 
