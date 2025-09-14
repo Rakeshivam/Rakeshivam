@@ -1,21 +1,20 @@
 [![MasterHead](https://www.commercient.com/wp-content/uploads/2019/12/deepLearning.gif)](https://portfolio-ruddy-zeta-10.vercel.app/) 
-<!-- <h3> नमस्ते (Namaste)🙏🏻, I am Rakesh Kushwaha 👋</h3> -->
-### नमस्ते (Namaste)🙏🏻, I am Rakesh Kushwaha 👋
+<!-- <h3> नमस्ते (Namaste)🙏🏻,I am Rakesh Kushwaha 👋</h3> -->
+### नमस्ते (Namaste)🙏🏻
+### I am Rakesh Kushwaha 👋
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-rakesh%20kushwaha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/er-rakesh-kushwaha/)](https://www.linkedin.com/in/er-rakesh-kushwaha/)
 [![Gmail Badge](https://img.shields.io/badge/-rakeshkushwaha@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vbhogayata@gmail.com)](mailto:rakeshkk589@gmail.com) 
 
 
 - 🎯 Portfolio website: [Portfolio](https://varadbhogayata.github.io/)
-- 💬 Ask me about anything, I am happy to help :smile:
-- 📬 How to reach me: [Let's get in touch!][linkedin]
+- 💬 Ask me about anything. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> :smile:
+
 
 <br>
 
-### Things I love:
-- Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-- Backend Development ✍️
-<br>
+
 
 ### Languages and Tools: 
 <img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
