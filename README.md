@@ -91,26 +91,20 @@
 
 <!--- social media icons, you can find them in the assets directory of this repo --->
 
-  <a href="https://www.f6s.com/member/sunny?follow=1" target="_blank" title="Follow SUNNY on F6S"><img src="https://www.f6s.com/images/f6s-follow-secondary.png" border="0" width="150" height="50" alt="Follow SUNNY on F6S" style="width: 78px; height: 22px; padding: 0px; margin: 0px;" /></a>
+  <a href="https://www.f6s.com/rakesh-kushwaha" target="_blank" title="Follow RAKESH on F6S"><img src="https://www.f6s.com/images/f6s-follow-secondary.png" border="0" width="150" height="50" alt="Follow RAKESH on F6S" style="width: 78px; height: 22px; padding: 0px; margin: 0px;" /></a>
   
-<a href="https://twitter.com/codeerasunny" target="_blank">
-    <img height="55" alt="sushil pandey  | Twitter" src="https://user-images.githubusercontent.com/60597290/152035696-80cad2ec-b4dd-4552-88e6-b6b466124f5b.png" />
+<a href="https://x.com/ErRakeshMaurya?s=09" target="_blank">
+    <img height="55" alt="Rakesh Kushwaha  | Twitter" src="https://user-images.githubusercontent.com/60597290/152035696-80cad2ec-b4dd-4552-88e6-b6b466124f5b.png" />
 </a>  
   
-<a href="https://www.youtube.com/@sunnyvlogs812" target="_blank">
-    <img height="55" alt="sushil pandey  | Youtube" src="https://user-images.githubusercontent.com/60597290/152035929-b7f75d38-e1c2-4325-a97e-7b934b8534e2.png" />
-</a>  
   
-<a href="https://www.linkedin.com/in/sushil-pandey-8ab638209/" target="_blank">
-  <img height="55" alt="sushil pandey | LinkedIn"  src="https://user-images.githubusercontent.com/60597290/152035581-a7c6c0c3-65c3-4160-89c0-e90ddc1e8d4e.png"/>
+<a href="https://www.linkedin.com/in/er-rakesh-kushwaha/" target="_blank">
+  <img height="55" alt="Rakesh Kushwaha | LinkedIn"  src="https://user-images.githubusercontent.com/60597290/152035581-a7c6c0c3-65c3-4160-89c0-e90ddc1e8d4e.png"/>
 </a> 
   
-<a href="https://stackoverflow.com/users/19096308/sunny" target="_blank">
-  <img height="55" alt="sushil pandey  | StackOverFlow" src="https://user-images.githubusercontent.com/60597290/152035786-d00aa1c3-56af-4d45-8a3c-15846d1a123d.png" />
-</a>
   
-<a href="https://www.instagram.com/@theamiable_sunny/" target="_blank">
-  <img height="55" alt="sushil pandey | Instagram"  src="https://user-images.githubusercontent.com/60597290/152036063-21242e52-af65-4a33-af5d-790466244407.png" />
+<a href="https://www.instagram.com/rakeshkushwaha.in?igsh=NGsxcHA5cXkxemVq" target="_blank">
+  <img height="55" alt="Rakesh Kushwaha | Instagram"  src="https://user-images.githubusercontent.com/60597290/152036063-21242e52-af65-4a33-af5d-790466244407.png" />
 </a>
 </div>
 
@@ -121,67 +115,28 @@
 </h1>
 
 <div align="center">
-<img width="200" height="300" src="https://github.com/user-attachments/assets/72b45fde-3053-4d79-af8b-0fcf1c04c0b7" />
+<img width="200" height="300" src="https://private-user-images.githubusercontent.com/112877228/489258232-12e0d365-9625-4f41-95e0-5cfeabed4daf.jpeg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTc4NDQyODMsIm5iZiI6MTc1Nzg0Mzk4MywicGF0aCI6Ii8xMTI4NzcyMjgvNDg5MjU4MjMyLTEyZTBkMzY1LTk2MjUtNGY0MS05NWUwLTVjZmVhYmVkNGRhZi5qcGVnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MDkxNCUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTA5MTRUMDk1OTQzWiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9MzJiZDMxOTg0NTVhMmNkNDE4ZTYxNTg3ODg2ZWU0MDViNDE4MGJlYjgwMjE0NGJmYTM1ZTlhOWFkYTU3OWVmMiZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.1MeQ89XyHjTFVfnBGAbGiTv1DkL-X0nUjIeeRxhxkK4" />
 
-I am a Computer Science graduate from Dr. Ram Manohar Lohia Avadh University.
+I am a Information Technology graduate from Dr. Ram Manohar Lohia Avadh University.
 
-✔ Experienced Front End Developer.
+✔ Experienced Front-end Developer.
 
 ✔ Proficient in web development, Data Structures and Algorithms (Java), and Solidity.
 
 ✔ Passionate about applying my Data Structures and Algorithms expertise to solve complex problems.
 
 ✔ Skilled in database management, version control, and software deployment
+
 <!--- Education --->  
   
 <h1 align="center">
     Education 
     </h1>
 
-  `Bachelor` in `Computer Science and  Engineering` - Institue of Engineering and Technology, Ayodhya
+  `Bachelor of Technology` in `Information Technology` - Dr. Rammanohar Lohia Avadh University, Ayodhya.
   
-  `Secondary School` Certificate `(CBSE)` Examination - Kendriya Vidyalaya AMC, Lucknow.
-
-  `High School` Certificate `(CBSE)` Examination - Kendriya Vidyalaya JRC, Barielly.
 </div>
 
-
-<div align="center">
-
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
-  
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=codERSunny812&theme=dracula&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Issues">
- </div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=codERSunny812&theme=dracula&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Experience,Stars,Followers">
- </div>
-
-
-
-
-<p align="center">
-  <a href="https://github.com/codERSunny812">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codERSunny812&theme=nightowl" alt="Chirag's GitHub Contribution"/>
-  </a>
-</p>
-
-
-
-![Sunny's Graph](https://github-readme-activity-graph.vercel.app/graph?username=codERSunny812&custom_title=Sunny's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-
-
-
-
-</div>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-  
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -237,31 +192,6 @@ I am a Computer Science graduate from Dr. Ram Manohar Lohia Avadh University.
 
 
 
-# Lang Used
- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codersunny812&langs_count=20&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false" /></p>
-
- # 👨🏻‍💻WakaTime Stats
- [![Sunny's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=codersunny&theme=nightowl&layout=compact)]()
- 
- # 📊 GitHub Stats:
-[![GitHub Streak](https://streak-stats.demolab.com?user=codERSunny812&theme=nightowl&hide_border=true)](https://git.io/streak-stats)
-  
- <p align="center">
-
-<img width="400px" src="https://github-readme-stats.vercel.app/api?username=codERSunny812&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false" /> 
-
-
-</p>
-
-
-<div align="center">
-  <a href="https://open.spotify.com/user/lu57g0xcnkmvwknegbr4gsfe6">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=lu57g0xcnkmvwknegbr4gsfe6&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-
-</div>
 
 
 
