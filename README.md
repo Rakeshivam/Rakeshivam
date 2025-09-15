@@ -78,7 +78,7 @@
 
 - 🔭 Working on **Enhancing my skills in Full Stack Development**
 
-- 📫 How to reach me [Gmail](mailto:rakeshkk589@gmail.com)
+- 📫 How to reach me: [Gmail](mailto:rakeshkk589@gmail.com)
 
 - ⚡ Fun fact **The first computer bug was a real moth. 🪲💻**
 
