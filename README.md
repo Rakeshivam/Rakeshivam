@@ -203,7 +203,7 @@ I am a Information Technology graduate from Dr. Ram Manohar Lohia Avadh Universi
 
 <br/>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">  
 
 
 
@@ -214,9 +214,80 @@ I am a Information Technology graduate from Dr. Ram Manohar Lohia Avadh Universi
 
 
 
-### ⚡ Github Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakeshivam&show_icons=true&locale=en&layout=compact" alt="rakeshivam" /></p>
+### 📈 Github Statistics
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakeshivam&show_icons=true&locale=en&layout=compact" alt="rakeshivam" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rakeshivam&show_icons=true&locale=en" alt="rakeshivam" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakeshivam&" alt="rakeshivam" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Rakeshivam&" alt="rakeshivam" /></p> -->
+
+
+
+
+
+
+
+<!--<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">-->
+
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github-readme-streak-stats.herokuapp.com?user=rakeshivam">
+          <img width="705" src="https://github-readme-streak-stats.herokuapp.com/?user=Rakeshivam&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical&hide_border=true">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rakeshivam">
+          <img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rakeshivam&theme=dracula"/>
+        </a>
+      </td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github-readme-activity-graph.vercel.app/graph?username=rakeshivam">
+          <img width="705" src="https://github-readme-activity-graph.vercel.app/graph?username=rakeshivam&theme=dracula">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+      <th>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rakeshivam">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rakeshivam&theme=dracula"/>
+        </a>
+      </th>
+      <th>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rakeshivam&">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rakeshivam&theme=dracula"/>
+        </a>
+      </th>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rakeshivam">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rakeshivam&theme=dracula"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rakeshivam">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rakeshivam&theme=dracula"/>
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
 
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
