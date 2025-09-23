@@ -94,7 +94,7 @@
 
 <div align="center">
 
-<a href="https://wiz-rakesh.vercel.app/" align="center">
+<a href="https://wiz-rakesh.netlify.app/" align="center">
   
   <img height="300" align="center" src="https://user-images.githubusercontent.com/60597290/151966205-54a50cb6-2401-49bc-992c-dd926c8ecd09.svg"/>
   
