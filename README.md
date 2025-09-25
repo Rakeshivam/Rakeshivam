@@ -136,7 +136,7 @@
 
 I am a Information Technology graduate from Dr. Ram Manohar Lohia Avadh University.
 
-✔ Experienced Front-end Developer.
+✔ Experienced Frontend Developer.
 
 ✔ Proficient in web development, Data Structures and Algorithms (Java), and Solidity.
 
