@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/in/er-rakesh-kushwaha/">
     <img src="https://img.shields.io/badge/-rakesh%20kushwaha-blue?style=flat-square&logo=Linkedin&logoColor=white" />
   </a>
-  <a href="mailto:rakeshkk589@gmail.com">
+  <a href="mailto:hey.rakeshindia@gmail.com">
     <img src="https://img.shields.io/badge/-rakesh@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" />
   </a>
 </p>
@@ -78,7 +78,7 @@
 
 - 🔭 Working on **Enhancing my skills in Full Stack Development**
 
-- 📫 How to reach me: [Gmail](mailto:rakeshkk589@gmail.com)
+- 📫 How to reach me: [Gmail](mailto:hey.rakeshindia@gmail.com)
 
 - ⚡ Fun fact **The first computer bug was a real moth. 🪲💻**
 
